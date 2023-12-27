@@ -7,5 +7,5 @@
   "Cancelable": true,
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",
-  "Version": 1.1
+  "Version": 1.9
 }
