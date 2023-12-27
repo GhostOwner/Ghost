@@ -2,7 +2,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "Test",
-  "Description": "Test Message",
+  "Description": "Test By ziad",
   "MainTextButton": "Update",
   "Cancelable": true,
   "CancelButtonText": "Cancel",
